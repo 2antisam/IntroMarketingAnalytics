@@ -1,3 +1,7 @@
+## 👥 ESTUDIANTE
+
+Samuel Florez
+
 ## 🧠 Objetivo
 
 Desarrollar habilidades analíticas mediante el uso de datos reales o simulados para:
